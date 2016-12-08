@@ -1,0 +1,6 @@
+start - 開局打牌
+status - 現場情況
+eat - 食糊
+signup - Sign for join games later
+members - check the number of members in this channel
+end - 打完
